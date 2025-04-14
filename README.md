@@ -1,6 +1,6 @@
-# Symbol MCP Server (REST API tools)
+# Symbol Blockchain MCP Server (REST API tools)
 
-The Symbol MCP Server is a server that enables the use of the Symbol blockchain's REST API as MCP (Model Context Protocol) tools.
+The Symbol Blockchain MCP Server is a server that enables the use of the Symbol blockchain's REST API as MCP (Model Context Protocol) tools.
 
 ## Usage
 
